@@ -1,0 +1,8 @@
+﻿  ListCert.cpp
+C:\Users\Administrator\source\repos\ListCert\ListCert\ListCert.cpp(25): warning C4477: 'fwprintf' : format string '%s' requires an argument of type 'wchar_t *', but variadic argument 1 has type 'const char *'
+  C:\Users\Administrator\source\repos\ListCert\ListCert\ListCert.cpp(25): note: consider using '%hs' in the format string
+  C:\Users\Administrator\source\repos\ListCert\ListCert\ListCert.cpp(25): note: consider using '%Ts' in the format string
+  C:\Users\Administrator\source\repos\ListCert\ListCert\ListCert.cpp(25): note: this warning is based on non-standard semantics used by Visual C++
+C:\Users\Administrator\source\repos\ListCert\ListCert\ListCert.cpp(332): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'void *'
+C:\Users\Administrator\source\repos\ListCert\ListCert\ListCert.cpp(332): warning C4313: 'printf': '%d' in format string conflicts with argument 1 of type 'void *'
+  ListCert.vcxproj -> C:\Users\Administrator\source\repos\ListCert\x64\Debug\ListCert.exe
